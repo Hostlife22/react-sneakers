@@ -1,5 +1,7 @@
 # React Sneakers
 
+### [Site link](https://hostlife22.github.io/react-sneakers/)
+
 ## 🛠 Стэк
 
 - React
