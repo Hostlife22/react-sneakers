@@ -7,7 +7,7 @@ import './index.scss';
 
 ReactDOM.render(
   <React.StrictMode>
-    <HashRouter>
+    <HashRouter hashType="noslash">
       <App />
     </HashRouter>
   </React.StrictMode>,
