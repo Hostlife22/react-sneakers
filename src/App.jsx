@@ -152,7 +152,7 @@ function App() {
 
         <Routes>
           <Route
-            path={process.env.PUBLIC_URL + '/'}
+            path=""
             element={
               <Home
                 items={items}
@@ -167,13 +167,10 @@ function App() {
             }
           />
           <Route
-            path={process.env.PUBLIC_URL + '/favorites'}
+            path="/favorites"
             element={<Favorites onAddToFavorite={onAddToFavorite} />}
           />
-          <Route
-            path={process.env.PUBLIC_URL + '/orders'}
-            element={<Orders />}
-          />
+          <Route path="/orders" element={<Orders />} />
         </Routes>
       </div>
     </AppContext.Provider>
