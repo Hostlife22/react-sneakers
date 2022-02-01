@@ -26,7 +26,7 @@ const Favorites = ({ onAddToFavorite }) => {
           <Info
             title="Закладок нет :("
             description="Вы ничего не добавляли в закладки"
-            image="/img/sad-smile.svg"
+            image="img/sad-smile.svg"
           />
         )}
       </div>

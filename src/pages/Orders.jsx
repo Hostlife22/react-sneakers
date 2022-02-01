@@ -40,7 +40,7 @@ const Orders = () => {
         <Info
           title="У вас нет заказов"
           description="Оформите хотя бы один заказ."
-          image="/img/smile.svg"
+          image="img/smile.svg"
         />
       )}
     </div>
