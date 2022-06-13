@@ -2,6 +2,10 @@
 
 ### [Site link](https://hostlife22.github.io/react-sneakers/)
 
+<kbd>
+  <img align="right" alt="img" src="TSeOSfm.jpeg"  />
+</kbd>
+
 ## 🛠 Стэк
 
 - React
